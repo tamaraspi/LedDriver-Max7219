@@ -20,3 +20,8 @@ CE0 (chip select)	Pin-24
 VCC (5V)	   			Pin-02
 GND     					Pin-06
 
+
+
+Test demo:
+
+sudo python3 demo.py
