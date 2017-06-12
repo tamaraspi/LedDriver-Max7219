@@ -14,10 +14,13 @@ python3 -m pip install spidev
 Connect the LedMatrix board to the Raspberry-pi:
 
 MOSI (data-in)    Pin-19
+
 SCLK    					Pin-23
+
 CE0 (chip select)	Pin-24
 
 VCC (5V)	   			Pin-02
+
 GND     					Pin-06
 
 
